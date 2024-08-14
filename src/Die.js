@@ -85,9 +85,7 @@ export default function Die(props) {
 
     return (
         <div>
-
             {pips}
-
         </div>
     )
 }
